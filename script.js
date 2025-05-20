@@ -12,7 +12,7 @@ const content = [
 {
   contentL2: "0-100岁",
   contentL3:
-  "整是喜欢吃麦麦的年纪",
+  "正是喜欢吃麦麦的年纪",
   src:
   "./img/4.jpg" },
 
